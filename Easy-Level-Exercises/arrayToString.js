@@ -8,5 +8,9 @@ function arrayToString(arr) {
 }
 
 /*
+My Solution:
+const arrayToString = arr => {
+  return arr.join("");
+};
 
 */
