@@ -21,5 +21,8 @@ My Solution:
 	} else if(str === "Des"){
 	    return arr.sort((a, b) => {
 	        return b-a;
-	    });
+	    }) else{
+        return arr;
+      }
+    }
 */
