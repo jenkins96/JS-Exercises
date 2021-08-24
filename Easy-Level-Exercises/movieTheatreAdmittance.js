@@ -13,6 +13,7 @@ function acceptIntoMovie(age, isSupervised) {
 
 
 /*
+
 My Solution:
 const acceptIntoMovie = (age, isSupervised) => {
 return age >=15 || isSupervised;
